@@ -1,4 +1,4 @@
-# FirmwareLab — milestone 1
+# FirmwareLab — Milestone 1
 
 A hardware-free embedded control portfolio project. Portable C11 implements a temperature controller; Python provides the desktop dashboard and test automation. All temperatures, sensors and fan outputs are simulated.
 
